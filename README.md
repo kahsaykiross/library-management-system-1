@@ -36,9 +36,7 @@ It demonstrates the use of:
 
 ---
 
-## 📊 Entity Relationship Diagram (ERD)
-
-![ERD](erd_diagram.png)
+![Entity Relationship Diagram]([https://(https://github.com/kahsaykiross/library-management-system-1/blob/main/Entity%20Relationship%20Diagram.png)
 
 ---
 
